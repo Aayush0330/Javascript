@@ -1,6 +1,10 @@
 # Javascript
 Javascript
 
-JS -Intervieww quetions Day 1 
+# JS -Intervieww quetions Day 1 
 
-time = 7:14 - 
+total = 16 quetions 🥳🥳
+
+# JS -Intervieww quetions Day 2 
+
+total = ? quetions 🥳🥳
